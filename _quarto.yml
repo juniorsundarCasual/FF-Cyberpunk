@@ -5,7 +5,7 @@ project:
 website:
   title: "Cyberpunk"
   navbar:
-    background: dark
+    # background: dark
     left:
       - href: volume-1/index.qmd
         text: "Volume 1"
@@ -34,8 +34,8 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, theme.scss]
       dark: [cosmo, theme-dark.scss]
+      light: [cosmo, theme.scss]
     css: styles.css
     toc: true
 
