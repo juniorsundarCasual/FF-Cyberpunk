@@ -23,9 +23,7 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: .
-            selfContained: true
-            name: FF-Cyberpunk
+            fsPath: notes
     journal:
         dailyDomain: daily
         name: journal
