@@ -57,9 +57,9 @@ For instance, Minecraft is known for its openness to modders. Developers can ess
 
 CD Projekt Red did offer modding functionalities with Cyberpunk 2077, and Neo decided to take advantage of that fact. One by one, he programmed and release mods that improved the game to a level that he felt matched his expectations. With each release, the game opened itself up to the player. The modding community went haywire as revolutionary suites of mods started to enter into the fray. Donations started rolling in, and with it came something that had been missing in Neo's life for a while now: satisfaction.
 
-Very quickly, though, Neo found himself hitting a roadblock. It wasn't that he didn't know what to do, it was that he couldn't do what he wanted to do. With modding, there is a limit to how much the game can be changed. To change the game further, one would have to delve into the source codes and make changes at the lower level. It wasn't like he could implore CD Projekt Red to share the source codes with him? He tried, but he received a negatory response almost immediately. Neo imagined the sender snorting in amusement as they typed the mail.
+Very quickly, though, Neo found himself hitting a roadblock. It wasn't that he didn't know what to do, it was that he couldn't do what he wanted to do. With modding, there is a limit to how much the game can be changed. To change the game further, one would have to delve into the source codes and make changes at the lower level. It wasn't like he could implore CD Projekt Red to share the source codes with him? He tried, but he received a negatory response almost immediately. Neo imagined the sender snorting in derisive amusement as they typed the mail.
 
-What could Neo do? He couldn't just give up!
+What could Neo do? He could give up. But for some reason, a part of him really didn't want to do that.
 
 It was at that point a crazy idea spawned in his mind. If he couldn't get the source codes through official channels, why not try alternatives? Neo hacked into CDPR's servers and took the source codes. It was trivial for Neo; coding just came naturally to him. He felt more comfortable talking with computers than he did with humans. After isolating himself for over ten years, his skills only grew as he spent his idle times honing them.
 
