@@ -2,7 +2,6 @@
 title: "Cyberpunk"
 format: html
 project-type: book
-author: Junior Sundar
 ---
 
 This is a Quarto website.
