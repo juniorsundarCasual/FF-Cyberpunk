@@ -2,6 +2,18 @@ project:
   type: website
   output-dir: docs
 
+format:
+  html:
+    theme:
+      # dark: [cosmo, theme-dark.scss]
+      light: [cosmo, theme.scss]
+    css: styles.css
+    toc: true
+
+freeze: false
+
+editor: visual
+
 website:
   title: "Cyberpunk"
   navbar:
@@ -31,15 +43,3 @@ website:
       contents:
       - text: "Chapter 1"
         href: volume-2/chapter-1.qmd
-
-format:
-  html:
-    theme:
-      # dark: [cosmo, theme-dark.scss]
-      light: [cosmo, theme.scss]
-    css: styles.css
-    toc: true
-
-freeze: false
-
-editor: visual
