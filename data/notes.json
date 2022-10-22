@@ -1,0 +1,179 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "FF-Cyberpunk"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1666429745184,
+      "created": 1666429745185,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "n5zsqqp97hfq2jk7drzzwmx": {
+      "id": "n5zsqqp97hfq2jk7drzzwmx",
+      "title": "Volume 1",
+      "desc": "",
+      "updated": 1666375155807,
+      "created": 1666375155807,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "volume-1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "FF-Cyberpunk"
+      },
+      "contentHash": "65f2a8233eb8d48e041ceab54d0656b8",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "eljk59w2klfjaiohp57dhw9"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "eljk59w2klfjaiohp57dhw9": {
+      "id": "eljk59w2klfjaiohp57dhw9",
+      "title": "Chapter 001 - Prologue",
+      "desc": "",
+      "updated": 1666375448534,
+      "created": 1666375188965,
+      "custom": {},
+      "fname": "volume-1.chapter-001",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "FF-Cyberpunk"
+      },
+      "contentHash": "3316cff7ce990b5ea5154e14f42c76bf",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "n5zsqqp97hfq2jk7drzzwmx",
+      "data": {}
+    },
+    "3954jgudusrfz1d79lqnq5z": {
+      "id": "3954jgudusrfz1d79lqnq5z",
+      "title": "Introduction",
+      "desc": "",
+      "updated": 1666375337790,
+      "created": 1666375331040,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "home",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "FF-Cyberpunk"
+      },
+      "contentHash": "338a1b8fc7b8ba47e3693443e1ac1f8a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "3954jgudusrfz1d79lqnq5z",
+      "title": "Introduction",
+      "desc": "",
+      "updated": 1666375337790,
+      "created": 1666375331040,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "home",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "FF-Cyberpunk"
+      },
+      "contentHash": "338a1b8fc7b8ba47e3693443e1ac1f8a",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {},
+      "body": ""
+    },
+    {
+      "id": "n5zsqqp97hfq2jk7drzzwmx",
+      "title": "Volume 1",
+      "desc": "",
+      "updated": 1666375155807,
+      "created": 1666375155807,
+      "custom": {
+        "nav_order": 1
+      },
+      "fname": "volume-1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "FF-Cyberpunk"
+      },
+      "contentHash": "65f2a8233eb8d48e041ceab54d0656b8",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "eljk59w2klfjaiohp57dhw9"
+      ],
+      "parent": null,
+      "data": {},
+      "body": ""
+    }
+  ],
+  "noteIndex": {
+    "id": "3954jgudusrfz1d79lqnq5z",
+    "title": "Introduction",
+    "desc": "",
+    "updated": 1666375337790,
+    "created": 1666375331040,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "home",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "FF-Cyberpunk"
+    },
+    "contentHash": "338a1b8fc7b8ba47e3693443e1ac1f8a",
+    "links": [],
+    "anchors": {},
+    "children": [],
+    "parent": null,
+    "data": {},
+    "body": ""
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "FF-Cyberpunk"
+    }
+  ]
+}

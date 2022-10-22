@@ -1,0 +1,39 @@
+{
+  "roots": [
+    {
+      "key": "3954jgudusrfz1d79lqnq5z",
+      "title": "Introduction",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "FF-Cyberpunk",
+      "children": []
+    },
+    {
+      "key": "n5zsqqp97hfq2jk7drzzwmx",
+      "title": "Volume 1",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "FF-Cyberpunk",
+      "children": [
+        {
+          "key": "eljk59w2klfjaiohp57dhw9",
+          "title": "Chapter 001 - Prologue",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "FF-Cyberpunk",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "3954jgudusrfz1d79lqnq5z": null,
+    "n5zsqqp97hfq2jk7drzzwmx": null,
+    "eljk59w2klfjaiohp57dhw9": "n5zsqqp97hfq2jk7drzzwmx"
+  },
+  "notesLabelById": {
+    "3954jgudusrfz1d79lqnq5z": "Introduction",
+    "n5zsqqp97hfq2jk7drzzwmx": "Volume 1",
+    "eljk59w2klfjaiohp57dhw9": "Chapter 001 - Prologue"
+  }
+}
