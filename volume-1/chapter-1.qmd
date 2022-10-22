@@ -1,9 +1,7 @@
 ---
-id: eljk59w2klfjaiohp57dhw9
-title: Chapter 001 - Prologue
-desc: ''
-updated: 1666375448534
-created: 1666375188965
+title: "Chapter 1 - Prologue"
+format: html
+project-type: book
 ---
 
 The clickity-clackity sound of mechanical keys being struck echoed within the dour confines of a single-bedroom flat. The flat was dark, its many windows boarded up with cardboard and heavy curtains. The few sources of artificial lighting were either inoperable, abandoned, or coated with a thick film of dust. A mountain of utensils had formed in the kitchen sink, the metal ones turning into plastic takeaway containers as it rose up the stack.
