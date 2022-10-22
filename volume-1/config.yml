@@ -1,0 +1,10 @@
+- id: volume-1
+  title: "Volume 1"
+  style: "floating"
+  collapse-level: 2
+  align: left
+  contents:
+  - text: "Chapter 1 | Prologue"
+    href: volume-1/chapter-1.qmd
+  - text: "Chapter 2"
+    href: volume-1/chapter-2.qmd

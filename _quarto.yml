@@ -1,45 +1,42 @@
-project:
-  type: website
-  output-dir: docs
-
+editor: visual
 format:
   html:
-    theme:
-      # dark: [cosmo, theme-dark.scss]
-      light: [cosmo, theme.scss]
     css: styles.css
+    theme:
+      light:
+      - cosmo
+      - theme.scss
     toc: true
-
 freeze: false
-
-editor: visual
-
+project:
+  output-dir: docs
+  type: website
 website:
-  title: "Cyberpunk"
   navbar:
     background: dark
     collapse-below: lg
     left:
-      - href: volume-1/index.qmd
-        text: "Volume 1"
-      - href: volume-2/index.qmd
-        text: "Volume 2"
-
+    - href: volume-1/index.qmd
+      text: Volume 1
+    - href: volume-2/index.qmd
+      text: Volume 2
   sidebar:
-    - id: volume-1
-      title: "Volume 1"
-      style: "floating"
-      collapse-level: 2
-      align: left
-      contents:
-      - text: "Chapter 1 | Prologue"
-        href: volume-1/chapter-1.qmd
-
-    - id: volume-2
-      title: "Volume 2"
-      style: "floating"
-      collapse-level: 2
-      align: left
-      contents:
-      - text: "Chapter 1"
-        href: volume-2/chapter-1.qmd
+  - align: left
+    collapse-level: 2
+    contents:
+    - href: volume-1/chapter-1.qmd
+      text: Chapter 1 | Prologue
+    - href: volume-1/chapter-2.qmd
+      text: Chapter 2
+    id: volume-1
+    style: floating
+    title: Volume 1
+  - align: left
+    collapse-level: 2
+    contents:
+    - href: volume-2/chapter-1.qmd
+      text: Chapter 1
+    id: volume-2
+    style: floating
+    title: Volume 2
+  title: Cyberpunk
