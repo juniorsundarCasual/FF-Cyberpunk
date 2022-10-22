@@ -1,6 +1,6 @@
 ---
 title: "Chapter 2"
-subtitle: ""
+subtitle: "Another Place, Another Time"
 format: html
 project-type: book
 ---

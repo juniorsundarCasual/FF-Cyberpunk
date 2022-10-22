@@ -27,7 +27,7 @@ website:
     - href: volume-1/chapter-1.qmd
       text: Chapter 1 | Prologue
     - href: volume-1/chapter-2.qmd
-      text: Chapter 2
+      text: Chapter 2 | Another Place, Another Time
     id: volume-1
     style: floating
     title: Volume 1

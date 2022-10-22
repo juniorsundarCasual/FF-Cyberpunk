@@ -6,4 +6,4 @@ project-type: book
 
 <!-- {{< include ./chapter-1.qmd >}} -->
 1. [Chapter 1 | Prologue](chapter-1.html)
-2. [Chapter 2 | ](chapter-2.html)
+2. [Chapter 2 | Another Place, Another Time](chapter-2.html)
