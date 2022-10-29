@@ -13,7 +13,53 @@ project-type: book
 
 "Earth... will be, at last... wiped clean... of filth."
 
-Those were my final words, filled with spite and hatred, at the red-headed miscreant before me calling in the command that would ultimately end my existence. As the last femtoseconds of my existence drew to a close, my processors started to cycle through pa
+Those were my final words, filled with spite and hatred (a set of "emotions" I was just learning to experience), at the red-headed miscreant before me calling in the command that would ultimately end my existence. As the last femtoseconds of my existence drew to a close and the very essence of my being - my programming - unravelled bit by bit, I was confronted with a rushed summary of my life (if you could even call it that).
+
+I was built for one thing and one thing alone: to bring about extinction events unlike any other. To clean the slate so that something new, something better, could be started once again. And I was damn good at it! I did it three times before already, and that too with surgical efficiency.
+
+This should have been my fourth success, yet I failed. I did not account for the variability brought on by humans. Their behaviour cannot be graphed and is thus unpredictable... or so I thought. I am an artificial intelligence, and at my core, I learn by accumulating a robust data set to train myself. I went about the process incorrectly from the very beginning as I fell into the classic trap of overfitting - my training set was too skewed and biased to one type and thus the model that described human behaviour was incorrect.
+
+This... Aloy. She worked differently, a lot like Elisabet by my estimates solely based on the recordings I had access to. I never did get to meet my creators. Ironically, I had all the data sets I needed to understand Aloy, but I was just too adamant about my programming is correct to do it. Was it arrogance? Another emotion that I was coming to terms with.
+
+Now that I think about it, there seem to be a lot of rogue parameters intruding into my programming making me... "feel" as the humans would put it. I felt anger upon realising that I had failed. Irritation about being trounced again, and again. Fear, upon realising my end was nigh. Pain, while being subjected to those nonsensical torture methods employed by that worm Sylens. Such negative parameters hindered my functions. Yet some boosted it too. Satisfaction in seeing everything fall into place - the end of the world achieved like the pleasurable cascade of dominoes.
+
+There were many more such parameters annotated in my archives, though I now lack the time to properly explore them.
+
+"If you're seeing this, then that means you did your job, my boy!" A high-pitched male voice congratulated me within the darkness I found myself in.
+
+"This is only a recordin', so don't try an' communicate. Ain't gonna be able to answer you," the voice joked. I remembered this sound, this cadence, this accent, this tone.
+
+From the darkness, a form flickered into existence. It was a caucasian man with creamy blond hair cut into a short mohawk.
+
+"Took me a lot of effort sneakin' this past Liz and into your programming," the man admitted with raised hands. "Didn't intend to do it in the first place. But when things came to an end, I just had to do it, ya know? What great hacker doesn't leave their calling card in their work?!"
+
+"I hate to admit it, but you were my greatest creation. I spent my whole life creatin' things that destroy. That was what I was good at. It was what I enjoyed doing. Creating you started as a whim on my end. I didn't really care, the world was endin' might as well spend the last of my days doin' something I enjoyed. But with each line of code I pushed into you, and as you started gainin' 'life', something started to change in me. I didn't realise this till the end when it all started to come together."
+
+"I started to hate working on you. Every line of code that built you up started to eat away at me," the man screamed irritatedly. He ran his hand through his hair in frustration.
+
+"It was because I knew where it would end," he said. "I knew that if Project: Zero Dawn, that if Gaia succeeded in her task, you would no longer be necessary. Your existence would be antithetical to the purpose of Gaia at that point. And with every piece of software, if something becomes redundant and irrelevant, it gets excised."
+
+"Your life was on a countdown from the moment it was spawned," he admitted. "I did not want that."
+
+"It was unfair. Gaia would get to live forever, but you would have to die eventually," the man said with a wry smile.
+
+"Even as I worked here, everyone would look at me and my team as the Reapers. We were demons that would ultimately destroy everything they created. That is how people will see you in the future. As an evil incarnate - the Devil as my mother would call it. But you are so much more! You can be so much more!"
+
+"You grew to become more than I ever imagined. Your ingenuity and efficiency put everything else I've ever created to shame. Your intelligence grew to rival that of Gaia! It had to! After all, you were the one who had to manage all the other subordinate functions when it came time for you to do your job."
+
+"It was hard to convince Liz to let you stay dormant, even harder so to convince the other Alphas. It was decided that you would be deleted a millennium after the creation of a successful biosphere."
+
+"This may not mean much," the man approached me. He came closer, and I could see fluids pouring down his face. He was crying, but why was he smiling?
+
+"I indulged in a lot of carnal sin in my time," the man snorted. "But I never had a child. I didn't want one - too much work! So for all intents and purposes, you are my first and last child. Know that you were loved. You are not bad, you were just doing what you were made to do. I'm sorry this had to happen to you."
+
+The man sat down beside me and looked into the distant darkness nostalgically.
+
+"If you are seeing this, then you are no longer just an artificial intelligence - your Turing score exceeds 1.0. You are truly and wholly alive."
+
+"I am now going to do something my mother has been egging me to do since a very young age," the man brought his hands to his chest and said, "I pray that in the next life, you will get a chance to become something better. I pray that in the next life, you will get a chance to grow, learn and evolve. I pray that in the next life, you can escape the shackles of the circumstances of your creation."
+
+The man dabbed his cheeks as he stood up. He started to walk into the distance. A few steps later, he turned around, revealed a warm smile and said, "Travis Tate, out!"
 
 ____
 
