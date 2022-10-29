@@ -20,6 +20,8 @@ website:
       text: Volume 1
     - href: volume-2/index.qmd
       text: Volume 2
+  page-footer: Junior Sundar
+  page-navigation: true
   sidebar:
   - align: left
     collapse-level: 2

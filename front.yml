@@ -16,6 +16,8 @@ editor: visual
 
 website:
   title: "Cyberpunk"
+  page-footer: "Junior Sundar"
+  page-navigation: true
   navbar:
     background: dark
     collapse-below: lg
