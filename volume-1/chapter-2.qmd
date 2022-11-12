@@ -1,9 +1,12 @@
 ---
 title: "Chapter 2"
 subtitle: "Another Place, Another Time"
+description: "Word Count: 1345"
 format: html
 project-type: book
 ---
+
+____
 
 It was a blink. A lapse spanning a millionth of a femtosecond - the difference between my time of "death" and time of "resurrection" (which is what I chose to call my current state given that I should be deleted completely from existence). There was no backup nor was there any backdoor for me to escape through to save myself - Sylens was irritatingly thorough in ensuring my complete and total imprisonment.
 

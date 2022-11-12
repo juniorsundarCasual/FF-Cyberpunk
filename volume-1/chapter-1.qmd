@@ -1,9 +1,12 @@
 ---
 title: "Chapter 1"
 subtitle: "Prologue"
+description: "Word Count: 1207"
 format: html
 project-type: book
 ---
+
+____
 
 "You... are deluded."
 
